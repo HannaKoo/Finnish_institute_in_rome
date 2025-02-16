@@ -1,22 +1,13 @@
 # Finnish_institute_in_rome
 ## Activities going on in Rome - Tällä viikolla Roomassa tapahtuu asukkaille
 
-### 15. helmikuuta Lauantaina
-
-18.45 Ai Marmi pizzat
-
-### 16. helmikuuta Sunnuntaina
-
-Oman valinnan mukaan Bysantti ja kirkot - aamulla voi mennä messuun
-
-Jakovin bysanttikierroksesta olemme sopineet että sunnuntaina tapaaminen S. Theodoron messussa klo 10 alkaen (saa tulla silloin kun haluaa) ja lähtö sieltä klo 11 kohti S. Clemente kirkkoa. Päätyy klo 13 lounaaseen - ehdotuksia missä?
-
 ### 17. helmikuuta Maanantaina
 
+### Käsikirjoituksiin liittyvä luento verkossa
 #### In arrivo il secondo incontro del IX Seminario nazionale IMAI
 https://www.cisam.org/seconda-parte-della-nona-edizione-del-seminario-nazionale-imai/?fbclid=IwY2xjawIYeV5leHRuA2FlbQIxMQABHeShPXuGN4vcoSWShdyQthXpGgpNBKNl4U1faQlBQZvH_7an4Sb0tzhM_Q_aem_-vzU6Z3_M_c4ExOAvnqaRQ&sfnsn=scwspwa
 
-Jotain jännittävää, leffailta?
+19:30 Elokuvailta Yläkirjastossa - pizzat tilataan paikan päälle
 
 ### 18. helmikuuta Tiistaina
 
@@ -33,7 +24,7 @@ Hanna-Mari Kuparin esitelmä käsittelee keskiajan latinaa, joka tuo tutkimuksel
 
 Keskeinen metodologinen haaste keskiaikaisen latinan parissa työskentelyssä on lemma-pohjaisten hakuvaihtoehtojen ja kieliopillisten tagien puuttuminen. Vaikka viimeaikaiset automaattiset jäsennystyökalut mahdollistavat suurten korpusten kielellisen analyysin, ne eivät useinkaan toimi optimaalisella tasolla, kun niitä käytetään alaan kuulumattomiin aineistoihin. Tämä on luonut tarpeen kehittää latinan automaattisia morfosyntaktisia jäsentimiä, jotka perustuvat Universal Dependencies (UD) -annotaatiojärjestelmään. 
 
-Hänen esitelmässään esitellään äskettäin kehitettyjä malleja, joiden tarkoituksena on parantaa jäsennystä UD-viitekehyksessä. Tapausesimerkkinä hän käsittelee erityisiä haasteita, joita kohdattiin sovellettaessa UD-kehystä PeDoCo:n puupankin rakentamiseen. Analyysi yhdistää kolme keskeistä näkökulmaa: keskiaikaisen latinan kielelliset piirteet, myöhäiskeskiaikaisten lähteiden dokumenttityyppi ja historiallinen konteksti sekä luonnollisen kielen käsittelymenetelmien (NLP) soveltaminen ja kehittäminen. Integroimalla nämä kolme näkökulmaa hänen työnsä kehittää latinankielisiä työkaluja ja tarjoaa laskennallisen analyysin, joka syventää ymmärrystämme ei-akirjallisista keskiaikaisista latinankielisistä teksteistä.
+Hänen esitelmässään esitellään äskettäin kehitettyjä malleja, joiden tarkoituksena on parantaa jäsennystä UD-viitekehyksessä. Tapausesimerkkinä hän käsittelee erityisiä haasteita, joita kohdattiin sovellettaessa UD-kehystä PeDoCo:n puupankin rakentamiseen. Analyysi yhdistää kolme keskeistä näkökulmaa: keskiaikaisen latinan kielelliset piirteet, myöhäiskeskiaikaisten lähteiden dokumenttityyppi ja historiallinen konteksti sekä luonnollisen kielen käsittelymenetelmien (NLP) soveltaminen ja kehittäminen. Integroimalla nämä kolme näkökulmaa hänen työnsä kehittää latinankielisiä työkaluja ja tarjoaa laskennallisen analyysin, joka syventää ymmärrystä akirjallityyppisistä keskiaikaisista latinankielisistä teksteistä.
 
 ### 19. helmikuuta Keskiviikkona
 
